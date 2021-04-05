@@ -1,5 +1,5 @@
 # Dream-House-Finance-Company-Project-on-Crowd-Segregation---Using-K-Mean-Clusters
-![image](https://user-images.githubusercontent.com/66888595/113563928-26465800-9626-11eb-8701-8a6e0939ee36.png)
+![image](https://user-images.githubusercontent.com/66888595/113574403-a88c4780-9639-11eb-8a18-baeaf2946668.png)
 
 ## Table of Contents
 <ul>

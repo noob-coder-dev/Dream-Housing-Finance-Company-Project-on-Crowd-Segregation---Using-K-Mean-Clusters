@@ -43,23 +43,24 @@
 <h3>
   <span id="Overview">Overview</span>
 </h3>
+> jnjenjnejfnjfnj
 
 <h3>
   <span id="Motivation">Motivation</span>
 </h3>
 
 <h3>
-  <span id="Aspects">Motivation</span>
+  <span id="Aspects">Aspects</span>
 </h3>
 
 <h3>
-  <span id="To">Motivation</span>
+  <span id="To">To Do</span>
 </h3>
 
 <h3>
-  <span id="Tech">Motivation</span>
+  <span id="Tech">Technology Used</span>
 </h3>
 
 <h3>
-  <span id="Credit">Motivation</span>
+  <span id="Credit">Credit</span>
 </h3>
